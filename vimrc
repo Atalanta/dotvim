@@ -37,7 +37,7 @@ let g:solarized_termtrans=1
 set colorcolumn=81
 colorscheme solarized
 set background=dark
-
+set guifont=Inconsolata-g\ for\ Powerline:h15
 set cursorline
 
 " colorscheme desert
